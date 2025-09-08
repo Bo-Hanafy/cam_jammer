@@ -1,6 +1,6 @@
 # UDP Flooder Tool
 
-A simple tool to send UDP packets to a target IP and port. This tool can be used to test network performance.
+A simple tool to send UDP packets to a target IP and port. This tool can be used to make a Jamming wave on CCTV.
 
 ## Usage
 
